@@ -1,6 +1,6 @@
    Dataset 1:
 
-   Full Batch Gradient Descent converges after 768 epochs with learning rate 0.001 . Loss is very high in magnitude of 10^6.
+   Full Batch Gradient Descent converges after 768 epochs with learning rate 0.001 . Loss is very high in magnitude of 10^6^.
 
    Stochastic Gradient Descent converges after 28 epochs with learning rate 0.001.
 
