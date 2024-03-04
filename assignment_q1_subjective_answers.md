@@ -1,12 +1,12 @@
    Dataset 1:
 
-   Full Batch Gradient Descent converges after 768 epochs with learning rate 0.001 . Loss is very high in magnitude of 10<sup>6</sup>.
+   Full Batch Gradient Descent converges after 768 epochs with learning rate 0.001 . Loss is very high in magnitude of $10^6$.
 
    Stochastic Gradient Descent converges after 28 epochs with learning rate 0.001.
 
    Dataset 2:
 
-   Full Batch Gradient descent converges after 43 epochs with learning rate 0.1. Loss is not very high as compared to dataset 1 because theta_0 and theta_1 are initialised to 0 and 1 which are close to actual values 4 and 3.
+   Full Batch Gradient descent converges after 43 epochs with learning rate 0.1. Loss is not very high as compared to dataset 1 because theta_0 $\theta_0$ and theta_1 $\theta_1$ are initialised to 0 and 1 which are close to actual values 4 and 3.
 
    Stochastic Gradient Descent converges after 2 epochs with learning rate 0.1. 
 
